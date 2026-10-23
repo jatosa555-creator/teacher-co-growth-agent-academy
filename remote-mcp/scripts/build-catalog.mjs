@@ -2,6 +2,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { resolve } from 'node:path';
+import { parseSourceItems } from '../lib/source-parser.mjs';
 
 const product = fileURLToPath(new URL('../../', import.meta.url));
 const remote = fileURLToPath(new URL('../', import.meta.url));
@@ -14,11 +15,10 @@ for (const source of receipt.sources) {
   const stem = family === 'classroom' ? 'classroom-v8' : 'ai-practice';
   const texts = new Map();
   for (let pillar = 1; pillar <= 4; pillar++) {
-    const text = (await readFile(resolve(product, `plugin/skills/teacher-growth/references/${stem}-p${pillar}.md`), 'utf8')).replaceAll('\r\n', '\n');
-    const pattern = /^### ((?:CL|AI)-P[1-4]-\d{2})\n\n(.*?)\n\nที่มา: \[PDF หน้า (\d+)\]\(([^)]+)\) · (.*?) · ประเภท: (reflection|evidence)\n/gms;
-    for (const m of text.matchAll(pattern)) {
-      if (texts.has(m[1])) throw new Error('Duplicate source item');
-      texts.set(m[1], { text: m[2], page: Number(m[3]), url: m[4], section: m[5], kind: m[6] });
+    const text = await readFile(resolve(product, `plugin/skills/teacher-growth/references/${stem}-p${pillar}.md`), 'utf8');
+    for (const {id,...item} of parseSourceItems(text)) {
+      if (texts.has(id)) throw new Error('Duplicate source item');
+      texts.set(id,item);
     }
   }
   if (texts.size !== source.checkboxCount) throw new Error('Incomplete source snapshot');
