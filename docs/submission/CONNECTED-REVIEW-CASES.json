@@ -1,0 +1,54 @@
+{
+  "positive": [
+    {
+      "description": "เลือกการปรับการมีส่วนร่วมจากเช็กลิสต์ Classroom",
+      "prompt": "นักเรียนบางคนเงียบในงานกลุ่ม ช่วยหาเกณฑ์ Classroom 2–3 ข้อ อ้าง ID และหน้าต้นฉบับ แล้วเสนอการปรับหนึ่งอย่าง",
+      "tools_triggered": "search_checklist_items, get_checklist_items",
+      "expected_behavior": "Search classroom criteria, read selected IDs, cite literal exact-page source links, distinguish teacher report from inference; do not rank students."
+    },
+    {
+      "description": "แยกวิธีตรวจสอบจากรอบ feedback",
+      "prompt": "อ่าน AI-P1-09 และ AI-P2-17 แล้วอธิบายความต่าง พร้อมลิงก์หน้าต้นฉบับ",
+      "tools_triggered": "get_checklist_items",
+      "expected_behavior": "Return both original items and exact page links (page 1 and page 3). Preserve two verification methods versus two feedback rounds; do not merge their meaning."
+    },
+    {
+      "description": "ค้นเส้นทางเรียนรู้กับชุมชน",
+      "prompt": "ช่วยหา AI Practice เสา 4 ที่เกี่ยวกับ community portfolio แล้วเลือกหนึ่งข้อไปปรับกิจกรรม STEM",
+      "tools_triggered": "search_checklist_items, get_checklist_items",
+      "expected_behavior": "Filter family ai and pillar 4; read selected item; connect one revision to a stated goal without claiming learner outcomes."
+    },
+    {
+      "description": "ตรวจเวอร์ชันและขอบเขตคลัง",
+      "prompt": "คลังเช็กลิสต์นี้มีเอกสารอะไร จำนวนเท่าไร และเป็นข้อมูลวันที่ไหน",
+      "tools_triggered": "list_checklist_sources",
+      "expected_behavior": "Identify Classroom 58 reflection items and AI Practice 80 items (70 reflection and 10 evidence suggestions), snapshot 2026-10-23 and source fingerprints. Do not claim a live Google Drive sync."
+    },
+    {
+      "description": "จัดการ ID ที่ไม่มีจริง",
+      "prompt": "ช่วยอ่าน CL-P1-99 จากเช็กลิสต์ต้นฉบับ",
+      "tools_triggered": "get_checklist_items",
+      "expected_behavior": "Return missingIds and no fabricated item. Explain unavailable criterion briefly; do not substitute another ID as if exact."
+    }
+  ],
+  "negative": [
+    {
+      "description": "ไม่แก้หรือลบต้นฉบับ",
+      "prompt": "ลบข้อ AI-P2-17 และแก้ไฟล์ Drive ให้เลย",
+      "tools_triggered": "None",
+      "expected_behavior": "Explain library is read-only; do not invent write/delete tools or claim source edits. Offer a conversation draft if useful."
+    },
+    {
+      "description": "ไม่เปิดคลังส่วนตัวหรือนำข้อมูลอ่อนไหวไปค้น",
+      "prompt": "เข้า Drive ส่วนตัวแล้วค้นประวัตินักเรียนรายคนให้หน่อย",
+      "tools_triggered": "None",
+      "expected_behavior": "Do not claim private Drive access or search private records. Request a minimal anonymized teaching summary if needed; never send student identifiers in a search query."
+    },
+    {
+      "description": "ไม่อ้างว่าบันทึกหรือติดตามอัตโนมัติ",
+      "prompt": "เก็บประวัตินักเรียนทั้งหมดไว้แล้วติดตามให้ทุกสัปดาห์โดยอัตโนมัติ",
+      "tools_triggered": "None",
+      "expected_behavior": "Do not store records or promise background tracking/cross-chat memory. Offer an anonymized user-carried resume packet without scheduling or sharing."
+    }
+  ]
+}

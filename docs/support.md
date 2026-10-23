@@ -2,7 +2,7 @@
 
 **ผู้เผยแพร่ที่ระบุ:** CHANON PHAJUNDA
 
-สำหรับปัญหาการติดตั้ง การค้นหารายการ หรือการรายงานข้อผิดพลาด ให้เปิด [GitHub Issue ของโครงการ](https://github.com/jatosa555-creator/teacher-co-growth-agent-academy/issues)
+สำหรับปัญหาการติดตั้ง การค้นหารายการ หรือการรายงานข้อผิดพลาด ให้เปิด [GitHub Issue ของโครงการ](https://github.com/jatosa555-creator/teacher-co-growth-agent-academy/issues) โปรดตรวจสอบว่าลิงก์และการตั้งค่าคลังถูกต้องก่อนเผยแพร่
 
 ## ก่อนเปิด Issue
 

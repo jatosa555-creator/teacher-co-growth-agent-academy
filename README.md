@@ -38,3 +38,10 @@ The OpenAI directory listing is being prepared. A draft upload is not approval o
 **Product:** Teacher Growth Partner
 
 The source references are not an accredited teacher assessment. Project-added item IDs and evidence suggestions are not a scoring rubric. Source institutions' logos, original PDF files and private teacher/student records are not included. No blanket license to third-party source materials is granted by this repository.
+
+
+## Live read-only MCP
+
+Verified 23 October 2026: https://teacher-growth-knowledge.netlify.app/health · MCP endpoint: https://teacher-growth-knowledge.netlify.app/mcp
+
+Three tools search approved checklist items, read exact items with source-page links, and list snapshot versions. No private Drive access or personal-record storage. [Protocol walkthrough and 11 live checks](https://github.com/jatosa555-creator/teacher-co-growth-agent-academy/releases/tag/mcp-review-demo-v1). OpenAI directory approval and native/free-account installation are not yet verified.

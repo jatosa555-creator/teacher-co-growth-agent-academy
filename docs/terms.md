@@ -3,7 +3,7 @@
 **ผู้เผยแพร่ที่ระบุ:** CHANON PHAJUNDA  
 **ขอบเขต:** Teacher Growth Partner, Skills และคลัง MCP สาธารณะแบบอ่านอย่างเดียว
 
-ข้อกำหนดนี้อธิบายการใช้งานที่ตั้งใจไว้สำหรับรุ่นออนไลน์ การเผยแพร่และการตั้งค่าจริงยังต้องตรวจสอบก่อนใช้งาน
+MCP แบบอ่านอย่างเดียวตรวจออนไลน์ล่าสุด 23 ตุลาคม 2026 บน Netlify การเผยแพร่ MCP ไม่ได้หมายถึงได้รับอนุมัติหรือติดตั้งผ่าน OpenAI แล้ว
 
 ## ขอบเขตบริการ
 
@@ -24,4 +24,4 @@
 
 ### English summary
 
-The intended service offers a read-only curated checklist snapshot and Skills that run through a user-selected AI host. MCP accepts short keywords or selected item IDs; do not submit personal records or full lesson plans. GitHub Issues are public. Teachers retain professional judgment and must review suggestions and sources. The checklists are reflection aids, not official ratings or evidence of classroom outcomes. Provider terms apply to their respective services. Deployment status and settings require verification.
+The service offers a read-only curated checklist snapshot and Skills that run through a user-selected AI host. MCP accepts short keywords or selected item IDs; do not submit personal records or full lesson plans. GitHub Issues are public. Teachers retain professional judgment and must review suggestions and sources. The checklists are reflection aids, not official ratings or evidence of classroom outcomes. Provider terms apply to their respective services. The MCP was verified online on 23 October 2026; OpenAI approval and installation remain separate.

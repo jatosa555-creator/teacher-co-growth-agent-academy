@@ -3,7 +3,7 @@
 **ผู้เผยแพร่ที่ระบุ:** CHANON PHAJUNDA  
 **ขอบเขต:** Teacher Growth Partner และคลัง MCP สำหรับเช็กลิสต์แบบอ่านอย่างเดียว
 
-เอกสารนี้อธิบายการทำงานที่ตั้งใจไว้สำหรับรุ่นออนไลน์ การเผยแพร่และการตั้งค่าจริงยังต้องตรวจสอบก่อนใช้งาน อย่าใช้เอกสารนี้เป็นหลักฐานว่าบริการออนไลน์แล้ว
+ตรวจการทำงานออนไลน์ล่าสุด 23 ตุลาคม 2026: MCP แบบอ่านอย่างเดียวให้บริการที่ https://teacher-growth-knowledge.netlify.app/mcp บน Netlify โดยใช้ snapshot เช็กลิสต์วันที่ 23 ตุลาคม 2026 สถานะการอนุมัติและการติดตั้งผ่าน OpenAI เป็นขั้นตอนแยกจากบริการ MCP นี้
 
 ## ข้อมูลที่ส่งและการจัดการ
 
@@ -19,8 +19,8 @@
 
 ## ติดต่อ
 
-แจ้งปัญหาผ่าน [GitHub Issues ของโครงการ](https://github.com/jatosa555-creator/teacher-co-growth-agent-academy/issues) อย่าใส่ข้อมูลส่วนบุคคลหรือข้อมูลอ่อนไหว
+แจ้งปัญหาผ่าน [GitHub Issues ของโครงการ](https://github.com/jatosa555-creator/teacher-co-growth-agent-academy/issues) โปรดตรวจสอบปลายทางและการตั้งค่าความเป็นสาธารณะก่อนส่ง และอย่าใส่ข้อมูลส่วนบุคคลหรือข้อมูลอ่อนไหว
 
 ### English summary
 
-This describes the intended online service; deployment and provider settings must be verified. The public MCP is read-only and accepts short keywords or selected checklist IDs. It has no accounts, OAuth, lesson uploads, AI API, database, app telemetry, or argument logging in the code. The hosting provider may process technical request metadata; retention is unconfirmed. Skills use the current conversation under the chosen AI host’s separate policies. GitHub Issues are public, stored by GitHub, and separate from MCP. Do not post student personal data or sensitive privacy details. No automatic Drive sync, cross-chat memory, or verified classroom impact is provided.
+The read-only MCP was verified online on 23 October 2026 and is hosted on Netlify. OpenAI directory approval and installation are separate and are not implied by this deployment. The public MCP is read-only and accepts short keywords or selected checklist IDs. It has no accounts, OAuth, lesson uploads, AI API, database, app telemetry, or argument logging in the code. The hosting provider may process technical request metadata; retention is unconfirmed. Skills use the current conversation under the chosen AI host’s separate policies. GitHub Issues are public, stored by GitHub, and separate from MCP. Do not post student personal data or sensitive privacy details. No automatic Drive sync, cross-chat memory, or verified classroom impact is provided.
