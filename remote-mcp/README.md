@@ -28,4 +28,4 @@ npm test
 
 ### English summary
 
-Read-only MCP server for a curated, dated checklist snapshot. Node.js 22+. Run `npm ci`, `npm run build`, `npm start`; run checks with `npm test`. Package version 0.1.0 uses MCP SDK 1.32.1. The intended public deployment URL and settings require verification. Do not submit personal data or full lesson plans.
+Read-only MCP server for a curated, dated checklist snapshot. Node.js 22+. Run `npm ci`, `npm run build`, `npm start`; run checks with `npm test`. Package version 0.1.0 uses MCP SDK 1.32.1. Public HTTPS deployment was verified on 23 October 2026 at https://teacher-growth-knowledge.netlify.app/mcp; 11 live protocol checks passed. This is not evidence of native installation or teacher outcomes. Do not submit personal data or full lesson plans.
