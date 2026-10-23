@@ -1,0 +1,1144 @@
+{
+  "snapshotDate": "2026-10-23",
+  "conversionVersion": 1,
+  "sources": [
+    {
+      "family": "Classroom Practical Checklist V8",
+      "prefix": "CL",
+      "url": "https://drive.google.com/file/d/171Ex3HP1mraE5gSrNNoZ3hPx0RD0ndYR/view",
+      "modifiedTime": "2026-04-29T07:42:26.000Z",
+      "pdfSha256": "81274905b6b9f3771a2677b8ac7e1ff8936dab84d20ddeaa5bebe51b4e8dfb99",
+      "pages": 5,
+      "checkboxCount": 58,
+      "perPillar": {
+        "1": 11,
+        "2": 13,
+        "3": 21,
+        "4": 13
+      },
+      "items": [
+        {
+          "id": "CL-P1-01",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "fd27b4cee2e7ecc1dab9798dbfdd814d31d6322a64cfd85dab95fb8721fbe502"
+        },
+        {
+          "id": "CL-P1-02",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "81345409f9f76d91750250fdbaf4e6ddf5b5efabee779d66bdd9369343acd269"
+        },
+        {
+          "id": "CL-P1-03",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "8e31d470e8de5a992eb0abef53921ff9a8f5c518cfc9097d270e0790f3b3daee"
+        },
+        {
+          "id": "CL-P1-04",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "81c0d8ac85a74050be6102b35fd2805dd8b0b73d9b2f145871adb5a32efcacbe"
+        },
+        {
+          "id": "CL-P1-05",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "887d9835ce89788d09525621dce7022225dfd302949a18c52b76d6b9795041bd"
+        },
+        {
+          "id": "CL-P1-06",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "50f2fcdde9c30d811cc464ffe29d44dc749ffc535ed46920a880f738a316bb09"
+        },
+        {
+          "id": "CL-P1-07",
+          "pillar": 1,
+          "page": 1,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "f8096e74bd0ea3990b32c51867f1b9385960ee197f9bbac8dd0de22b520ca137"
+        },
+        {
+          "id": "CL-P1-08",
+          "pillar": 1,
+          "page": 1,
+          "section": "Adaptive & Emergency-Ready Check: ความปลอดภัย เสียง และการไม่ทิ้งใครไว้ข้างหลัง",
+          "kind": "reflection",
+          "textSha256": "4929d54075e344b9688ff48da3626a5281c16dc74cec3a6709f3174092f8294a"
+        },
+        {
+          "id": "CL-P1-09",
+          "pillar": 1,
+          "page": 1,
+          "section": "Adaptive & Emergency-Ready Check: ความปลอดภัย เสียง และการไม่ทิ้งใครไว้ข้างหลัง",
+          "kind": "reflection",
+          "textSha256": "86be0b7aa613d4a7f6e8c2c4ab724e9767122d6790be0e3294e35ea49615205d"
+        },
+        {
+          "id": "CL-P1-10",
+          "pillar": 1,
+          "page": 1,
+          "section": "Adaptive & Emergency-Ready Check: ความปลอดภัย เสียง และการไม่ทิ้งใครไว้ข้างหลัง",
+          "kind": "reflection",
+          "textSha256": "d6ef29945e5b1be71418f4d4e16a809bb44f8d1bac7766392c34a97c7a4fca7c"
+        },
+        {
+          "id": "CL-P1-11",
+          "pillar": 1,
+          "page": 1,
+          "section": "Adaptive & Emergency-Ready Check: ความปลอดภัย เสียง และการไม่ทิ้งใครไว้ข้างหลัง",
+          "kind": "reflection",
+          "textSha256": "ee96941d81fcacfada206a562fa7cdace797eda4b6d4ddb5b02b1ae17b72c90c"
+        },
+        {
+          "id": "CL-P2-01",
+          "pillar": 2,
+          "page": 2,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "7490302568ea704f6517d244a8e68555584eda0aa3dc3c05aa0aca6d4bcc1fac"
+        },
+        {
+          "id": "CL-P2-02",
+          "pillar": 2,
+          "page": 2,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "133454081f1037b42523d5fdd22c93977d5820a93ba74b72b1eced4379c8ab96"
+        },
+        {
+          "id": "CL-P2-03",
+          "pillar": 2,
+          "page": 2,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "c7b665d44f02cd21fa998492e8b1837cbbc0c426bdc01ee5cc2698febf0b5673"
+        },
+        {
+          "id": "CL-P2-04",
+          "pillar": 2,
+          "page": 2,
+          "section": "Self-check",
+          "kind": "reflection",
+          "textSha256": "dc71da44a2403ace48259193d739fbc7582f71025116cef270b9d191bf6e6d39"
+        },
+        {
+          "id": "CL-P2-05",
+          "pillar": 2,
+          "page": 2,
+          "section": "(Collaborative Learning)",
+          "kind": "reflection",
+          "textSha256": "2b14d9efe7adb621cdee918a197b3254c12b49e89f2f86da498206c9ddb76b44"
+        },
+        {
+          "id": "CL-P2-06",
+          "pillar": 2,
+          "page": 2,
+          "section": "(Collaborative Learning)",
+          "kind": "reflection",
+          "textSha256": "00ac701c32bcf0f615eeb226c60b016120d7e5d3aa215783f7656797c7e2c1b5"
+        },
+        {
+          "id": "CL-P2-07",
+          "pillar": 2,
+          "page": 2,
+          "section": "(Collaborative Learning)",
+          "kind": "reflection",
+          "textSha256": "63a4fe8b6996e51ce56385fd71f71fc7af33d7afce9f6f43af83becc7f610f05"
+        },
+        {
+          "id": "CL-P2-08",
+          "pillar": 2,
+          "page": 2,
+          "section": "(Collaborative Learning)",
+          "kind": "reflection",
+          "textSha256": "e6f7e110585f2e9e36c0f62cb1255fe7da5d76e28590b136d62ab008b8a9f660"
+        },
+        {
+          "id": "CL-P2-09",
+          "pillar": 2,
+          "page": 2,
+          "section": "Adaptive & Emergency-Ready Check: การสอนที่ยืดหยุ่น แต่ยังมีคุณภาพ",
+          "kind": "reflection",
+          "textSha256": "b8230ca9529708827a6c24a4f0adefaebf14292b92833cc33f0650148c8a73ab"
+        },
+        {
+          "id": "CL-P2-10",
+          "pillar": 2,
+          "page": 2,
+          "section": "Adaptive & Emergency-Ready Check: การสอนที่ยืดหยุ่น แต่ยังมีคุณภาพ",
+          "kind": "reflection",
+          "textSha256": "cf1ab7c8b3a7f460dd1c5db0ffb86e4980b25c43e94fd0e3227ae33b4d219b95"
+        },
+        {
+          "id": "CL-P2-11",
+          "pillar": 2,
+          "page": 2,
+          "section": "Adaptive & Emergency-Ready Check: การสอนที่ยืดหยุ่น แต่ยังมีคุณภาพ",
+          "kind": "reflection",
+          "textSha256": "03d9cfeefcbc3bdeacee183ec61d0315a9ede793b11371353a9a7302ab197067"
+        },
+        {
+          "id": "CL-P2-12",
+          "pillar": 2,
+          "page": 2,
+          "section": "Adaptive & Emergency-Ready Check: การสอนที่ยืดหยุ่น แต่ยังมีคุณภาพ",
+          "kind": "reflection",
+          "textSha256": "16f4a94e6e924c5245ddefcd1f8305331441685ad39c26babb77dc106d65cb58"
+        },
+        {
+          "id": "CL-P2-13",
+          "pillar": 2,
+          "page": 2,
+          "section": "Adaptive & Emergency-Ready Check: การสอนที่ยืดหยุ่น แต่ยังมีคุณภาพ",
+          "kind": "reflection",
+          "textSha256": "aaa9e5afa5afea890cdb61105684435a8a427cb26dd6eab8111e86d04f4e9752"
+        },
+        {
+          "id": "CL-P3-01",
+          "pillar": 3,
+          "page": 2,
+          "section": "Before learning",
+          "kind": "reflection",
+          "textSha256": "98c6bf9ebe6adfff3f7cb24c7611e46266e22ccfc23a16bda13f9aedf464fa44"
+        },
+        {
+          "id": "CL-P3-02",
+          "pillar": 3,
+          "page": 2,
+          "section": "Before learning",
+          "kind": "reflection",
+          "textSha256": "023f3995b589f91e2747eeee919f1426e60b8c933bf7754682e5967a95726e99"
+        },
+        {
+          "id": "CL-P3-03",
+          "pillar": 3,
+          "page": 2,
+          "section": "Before learning",
+          "kind": "reflection",
+          "textSha256": "5b00b7eec7d94c84b689abb4fac4cdca027dccd9b0baec903e9f478e91dad3aa"
+        },
+        {
+          "id": "CL-P3-04",
+          "pillar": 3,
+          "page": 2,
+          "section": "Before learning",
+          "kind": "reflection",
+          "textSha256": "0a0c59bd153b969508d80cc645a2328355e90d8f72368383478e201b8071fa54"
+        },
+        {
+          "id": "CL-P3-05",
+          "pillar": 3,
+          "page": 3,
+          "section": "During learning",
+          "kind": "reflection",
+          "textSha256": "5b5f88c565ca98afa59ff44713ffc306bc321ca69e879c9ed814bb53634547e4"
+        },
+        {
+          "id": "CL-P3-06",
+          "pillar": 3,
+          "page": 3,
+          "section": "During learning",
+          "kind": "reflection",
+          "textSha256": "399e2011e231333e4b88bfac0df824ef0aabd7df5a738261d0fb93dee481b3d8"
+        },
+        {
+          "id": "CL-P3-07",
+          "pillar": 3,
+          "page": 3,
+          "section": "During learning",
+          "kind": "reflection",
+          "textSha256": "3069d3ea5208ed0a1fb7eda3d5020b3c004db4cc0800737d69ae94f7ecddaee0"
+        },
+        {
+          "id": "CL-P3-08",
+          "pillar": 3,
+          "page": 3,
+          "section": "During learning",
+          "kind": "reflection",
+          "textSha256": "52f662d4f65cc795a9a40b479d1164696eaa4c2d67d215da4c2e91d5370c1f92"
+        },
+        {
+          "id": "CL-P3-09",
+          "pillar": 3,
+          "page": 3,
+          "section": "When stuck",
+          "kind": "reflection",
+          "textSha256": "ab4b66712d06351bbf9a1d89c08d3f918bd852f3721f64a9370285fb64e7c3a7"
+        },
+        {
+          "id": "CL-P3-10",
+          "pillar": 3,
+          "page": 3,
+          "section": "When stuck",
+          "kind": "reflection",
+          "textSha256": "9e1875c187492df29d39940c2a3f96e75500f096e6ff3cefc6de8c71ef66cb5d"
+        },
+        {
+          "id": "CL-P3-11",
+          "pillar": 3,
+          "page": 3,
+          "section": "When stuck",
+          "kind": "reflection",
+          "textSha256": "c8a8c0d5238df11bd860e19a9dcb24955b4296ba83507c27d016312441d60d10"
+        },
+        {
+          "id": "CL-P3-12",
+          "pillar": 3,
+          "page": 3,
+          "section": "When stuck",
+          "kind": "reflection",
+          "textSha256": "aa9a9f26b9b1d6bc27b9b04f1768f3c2a8973778d7e3002ad92f2869be181043"
+        },
+        {
+          "id": "CL-P3-13",
+          "pillar": 3,
+          "page": 3,
+          "section": "When stuck",
+          "kind": "reflection",
+          "textSha256": "7521eacdb6e71cd77d4318cc1a1ddefdc42c7dfaad81c2d926618e3a44abd2f1"
+        },
+        {
+          "id": "CL-P3-14",
+          "pillar": 3,
+          "page": 3,
+          "section": "After learning",
+          "kind": "reflection",
+          "textSha256": "460939c6abbf4c53ac0f4113ba98584641bcee427796fa6842c5ed9e1e051c27"
+        },
+        {
+          "id": "CL-P3-15",
+          "pillar": 3,
+          "page": 3,
+          "section": "After learning",
+          "kind": "reflection",
+          "textSha256": "0f385cef581e3222e8048afc7da1765b8466a42e1b7ff0095038add9d70aefc0"
+        },
+        {
+          "id": "CL-P3-16",
+          "pillar": 3,
+          "page": 3,
+          "section": "After learning",
+          "kind": "reflection",
+          "textSha256": "c327c820b87c08286dad6cfcbdf83c8e2d99539c91cd63d6c9158f5b5349c6cb"
+        },
+        {
+          "id": "CL-P3-17",
+          "pillar": 3,
+          "page": 3,
+          "section": "After learning",
+          "kind": "reflection",
+          "textSha256": "e52f9116ce7f05c360550866a6fd34495efaa9c98ea07565983236cf9423737b"
+        },
+        {
+          "id": "CL-P3-18",
+          "pillar": 3,
+          "page": 3,
+          "section": "Adaptive & Emergency-Ready Check: การพยุงใจ การกำกับตนเอง และการส่งต่อ",
+          "kind": "reflection",
+          "textSha256": "89b5d5b9d3ff6ce8cb40594f7dcbf516f9c258c33bba9009e603d864a10d5e5f"
+        },
+        {
+          "id": "CL-P3-19",
+          "pillar": 3,
+          "page": 3,
+          "section": "Adaptive & Emergency-Ready Check: การพยุงใจ การกำกับตนเอง และการส่งต่อ",
+          "kind": "reflection",
+          "textSha256": "546265f34696b681432b44be56149c501a08dcbba242a22a42509f3de492476e"
+        },
+        {
+          "id": "CL-P3-20",
+          "pillar": 3,
+          "page": 3,
+          "section": "Adaptive & Emergency-Ready Check: การพยุงใจ การกำกับตนเอง และการส่งต่อ",
+          "kind": "reflection",
+          "textSha256": "6aa815e3b9ce0a6d7d15a46dcb15d9a5bbbd0cd34c6ce57ba36bdfa7260f1353"
+        },
+        {
+          "id": "CL-P3-21",
+          "pillar": 3,
+          "page": 3,
+          "section": "Adaptive & Emergency-Ready Check: การพยุงใจ การกำกับตนเอง และการส่งต่อ",
+          "kind": "reflection",
+          "textSha256": "d9e2ab9ace8b7a106f09342142685e215fbcee53dcca92167d27cd05c1eeae96"
+        },
+        {
+          "id": "CL-P4-01",
+          "pillar": 4,
+          "page": 4,
+          "section": "A. Resilient Well-being & Recovery",
+          "kind": "reflection",
+          "textSha256": "3b1644d999f67f3c75d319afe691fff222be2cc47c91a6ac9b9ee1b10d43ba08"
+        },
+        {
+          "id": "CL-P4-02",
+          "pillar": 4,
+          "page": 4,
+          "section": "A. Resilient Well-being & Recovery",
+          "kind": "reflection",
+          "textSha256": "0f03d170b7d6aa330f26428abfa7bf8007680e82e0653bb9052b9b6c4695cb94"
+        },
+        {
+          "id": "CL-P4-03",
+          "pillar": 4,
+          "page": 4,
+          "section": "A. Resilient Well-being & Recovery",
+          "kind": "reflection",
+          "textSha256": "abd352342412d0f65d2aca4b50fdba8d3faca27aaa342237139767229c3191a9"
+        },
+        {
+          "id": "CL-P4-04",
+          "pillar": 4,
+          "page": 4,
+          "section": "A. Resilient Well-being & Recovery",
+          "kind": "reflection",
+          "textSha256": "746d3024b42138ce3d93fe1085653a069c0c3ca0a608e3f234b4b3fdfae0067f"
+        },
+        {
+          "id": "CL-P4-05",
+          "pillar": 4,
+          "page": 4,
+          "section": "B. Safety & Predictability",
+          "kind": "reflection",
+          "textSha256": "47bdd3d562c861bb9092bfb21c326d7d4ac1dd8efaced8ff2889a17912c1f59f"
+        },
+        {
+          "id": "CL-P4-06",
+          "pillar": 4,
+          "page": 4,
+          "section": "B. Safety & Predictability",
+          "kind": "reflection",
+          "textSha256": "3ba9fb93aec944ae33ca03c0ec902e8f7bf35fd7a15b64535dfc2e1a81517a1e"
+        },
+        {
+          "id": "CL-P4-07",
+          "pillar": 4,
+          "page": 4,
+          "section": "B. Safety & Predictability",
+          "kind": "reflection",
+          "textSha256": "1bbe74d260630efd72e32324cfc936631fb50764cb9491a33ab2894bee6adf70"
+        },
+        {
+          "id": "CL-P4-08",
+          "pillar": 4,
+          "page": 4,
+          "section": "C. Psychosocial Support & Referral",
+          "kind": "reflection",
+          "textSha256": "90227a4521a27002bb46a79ddb6965b92fd6c6f154de733d7164ba696bf7109c"
+        },
+        {
+          "id": "CL-P4-09",
+          "pillar": 4,
+          "page": 4,
+          "section": "C. Psychosocial Support & Referral",
+          "kind": "reflection",
+          "textSha256": "04290725b23f1bb478365f912777618dd98854a63637616bae8121646907d450"
+        },
+        {
+          "id": "CL-P4-10",
+          "pillar": 4,
+          "page": 4,
+          "section": "C. Psychosocial Support & Referral",
+          "kind": "reflection",
+          "textSha256": "b13131b83c6c9cce72a247529561343ccaf0776cdd8059b244c5a0cf107db3f4"
+        },
+        {
+          "id": "CL-P4-11",
+          "pillar": 4,
+          "page": 4,
+          "section": "D. Teacher & Buddy Support",
+          "kind": "reflection",
+          "textSha256": "93d76f8475430e7a95f69740bac8f909829b6da000126db3a3ad73a91441cc4b"
+        },
+        {
+          "id": "CL-P4-12",
+          "pillar": 4,
+          "page": 4,
+          "section": "D. Teacher & Buddy Support",
+          "kind": "reflection",
+          "textSha256": "ef0fab0d046670688f39df19e71e1d1940b30cc4176ab7b2da5c3e1ab2b61f76"
+        },
+        {
+          "id": "CL-P4-13",
+          "pillar": 4,
+          "page": 4,
+          "section": "D. Teacher & Buddy Support",
+          "kind": "reflection",
+          "textSha256": "e118e25ac117b890bb10bcf004e6b0a2750832470a5835ea3fb05d58c0eb76c6"
+        }
+      ]
+    },
+    {
+      "family": "AI Teacher Practice Checklist",
+      "prefix": "AI",
+      "url": "https://drive.google.com/file/d/1dNo8j2ijMulxOABiAcOiL4mF-3Lxs8AK/view",
+      "modifiedTime": "2026-06-15T09:55:09.000Z",
+      "pdfSha256": "238c81198c0debde75760cc86757c6d1738facaae07559e6f1e5621bdb825886",
+      "pages": 6,
+      "checkboxCount": 80,
+      "perPillar": {
+        "1": 17,
+        "2": 20,
+        "3": 17,
+        "4": 26
+      },
+      "items": [
+        {
+          "id": "AI-P1-01",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.1 Purpose before Prompt: เริ่มจากเป้าหมายก่อนใช้ AI",
+          "kind": "reflection",
+          "textSha256": "3b12c1d41cd157e2a1c32b566977b177f066b88bb6a8bca3d5d686ffeeb3d52d"
+        },
+        {
+          "id": "AI-P1-02",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.1 Purpose before Prompt: เริ่มจากเป้าหมายก่อนใช้ AI",
+          "kind": "reflection",
+          "textSha256": "3049018168715a4975358fa4552faf7c3137cf3069e5ff178665fcd5739d7acd"
+        },
+        {
+          "id": "AI-P1-03",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.1 Purpose before Prompt: เริ่มจากเป้าหมายก่อนใช้ AI",
+          "kind": "reflection",
+          "textSha256": "7d8b8f4256969605d4c9700fdd05362674f7ed9d6fc9262468ca3d08baabb453"
+        },
+        {
+          "id": "AI-P1-04",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.1 Purpose before Prompt: เริ่มจากเป้าหมายก่อนใช้ AI",
+          "kind": "reflection",
+          "textSha256": "3e5165d12f341a0d41c6d55a08bbd2c2d180543790ab3395ab35ef24ec77c5d2"
+        },
+        {
+          "id": "AI-P1-05",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.2 Human–AI Role Clarity: แบ่งบทบาทมนุษย์กับ AI ให้ชัด",
+          "kind": "reflection",
+          "textSha256": "9b429d3f8810e43f8b429cab174f1031a036eb1c812ca023f2b5ba70d72cf6c1"
+        },
+        {
+          "id": "AI-P1-06",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.2 Human–AI Role Clarity: แบ่งบทบาทมนุษย์กับ AI ให้ชัด",
+          "kind": "reflection",
+          "textSha256": "7bdcd1563fab4ebd0601d8fb7b5e77a6eb4cb77de80b3717f8cf48c037f6c5e8"
+        },
+        {
+          "id": "AI-P1-07",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.2 Human–AI Role Clarity: แบ่งบทบาทมนุษย์กับ AI ให้ชัด",
+          "kind": "reflection",
+          "textSha256": "abba4601499397a9b86ffbb2e922b1b3fe3ac83c2c11b65a08e94ba6f4260788"
+        },
+        {
+          "id": "AI-P1-08",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.2 Human–AI Role Clarity: แบ่งบทบาทมนุษย์กับ AI ให้ชัด",
+          "kind": "reflection",
+          "textSha256": "3d7519a0af3e1b654f4ad8f6d8c67b74377d7e9055d36932284561d167b1f9d9"
+        },
+        {
+          "id": "AI-P1-09",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.3 Verification & Safe Use: ตรวจสอบคำตอบ AI ใช้ข้อมูลอย่างปลอดภัย และตระหนักถึงผลกระทบ",
+          "kind": "reflection",
+          "textSha256": "8420246e050be6621206754839d085c930a0e369f1d3ff246c1b6ece7ae636d2"
+        },
+        {
+          "id": "AI-P1-10",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.3 Verification & Safe Use: ตรวจสอบคำตอบ AI ใช้ข้อมูลอย่างปลอดภัย และตระหนักถึงผลกระทบ",
+          "kind": "reflection",
+          "textSha256": "0833b998b8152e7811037d6fb1b4cb792c04d7363560003501a1fefa75ca1a86"
+        },
+        {
+          "id": "AI-P1-11",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.3 Verification & Safe Use: ตรวจสอบคำตอบ AI ใช้ข้อมูลอย่างปลอดภัย และตระหนักถึงผลกระทบ",
+          "kind": "reflection",
+          "textSha256": "97dbc4ffa8e720d239b4c008e14f06f389f7de9bcec5421b22c71f30369cbdd1"
+        },
+        {
+          "id": "AI-P1-12",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.3 Verification & Safe Use: ตรวจสอบคำตอบ AI ใช้ข้อมูลอย่างปลอดภัย และตระหนักถึงผลกระทบ",
+          "kind": "reflection",
+          "textSha256": "e4c8a4d268e04529c3e07d09b29bb85f4fdefbbd4fcd56e142b99d55e309d6a1"
+        },
+        {
+          "id": "AI-P1-13",
+          "pillar": 1,
+          "page": 1,
+          "section": "1.3 Verification & Safe Use: ตรวจสอบคำตอบ AI ใช้ข้อมูลอย่างปลอดภัย และตระหนักถึงผลกระทบ",
+          "kind": "reflection",
+          "textSha256": "6e4c309b7e473e7384037b3748a7c5811b7544c098ff3d9ff5c062c3baadced0"
+        },
+        {
+          "id": "AI-P1-14",
+          "pillar": 1,
+          "page": 1,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 1",
+          "kind": "evidence",
+          "textSha256": "442b6f85ea9cf47fa5d73032d437881663b6901ab4a617c496c7e21f8ccf6903"
+        },
+        {
+          "id": "AI-P1-15",
+          "pillar": 1,
+          "page": 1,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 1",
+          "kind": "evidence",
+          "textSha256": "3d851f42a9f2896cd95abfdd572d8615b04d334ed6cbdf585eacb9f69ed24c7d"
+        },
+        {
+          "id": "AI-P1-16",
+          "pillar": 1,
+          "page": 1,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 1",
+          "kind": "evidence",
+          "textSha256": "c06752842d74ce00ba16c05357ad40e26876077b12faa818057c9244763caae2"
+        },
+        {
+          "id": "AI-P1-17",
+          "pillar": 1,
+          "page": 1,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 1",
+          "kind": "evidence",
+          "textSha256": "cdd3e2e7509f8ae3fd59b681ac7b0a1d005895a736bdd9818e9a981776b21dd9"
+        },
+        {
+          "id": "AI-P2-01",
+          "pillar": 2,
+          "page": 2,
+          "section": "จุดมุ่งเน้นสำคัญและผลลัพธ์ที่คาดหวังที่หลายหลายมิติ",
+          "kind": "reflection",
+          "textSha256": "a6c66b496aa848aa4f9de2f46cb9ca4321b178a6743805916921fa88cb9dceed"
+        },
+        {
+          "id": "AI-P2-02",
+          "pillar": 2,
+          "page": 2,
+          "section": "จุดมุ่งเน้นสำคัญและผลลัพธ์ที่คาดหวังที่หลายหลายมิติ",
+          "kind": "reflection",
+          "textSha256": "7fa266e298729474eaa6fe9d13297942886a4d1ccea6d4febe030ed7346fdd33"
+        },
+        {
+          "id": "AI-P2-03",
+          "pillar": 2,
+          "page": 2,
+          "section": "จุดมุ่งเน้นสำคัญและผลลัพธ์ที่คาดหวังที่หลายหลายมิติ",
+          "kind": "reflection",
+          "textSha256": "991d78a174bf5f3ca8e7987a6ddf848872d46a51bd9c2e9591c7a457cd7c4cd8"
+        },
+        {
+          "id": "AI-P2-04",
+          "pillar": 2,
+          "page": 2,
+          "section": "จุดมุ่งเน้นสำคัญและผลลัพธ์ที่คาดหวังที่หลายหลายมิติ",
+          "kind": "reflection",
+          "textSha256": "54604dbf32091aca57f9f554436b211a9146c8f3eaa8bd5a37982048e55fd9fa"
+        },
+        {
+          "id": "AI-P2-05",
+          "pillar": 2,
+          "page": 2,
+          "section": "A. Chunking — แตกโจทย์ก่อนให้ AI ทำงาน (Breaking Down the Task before Working with AI)",
+          "kind": "reflection",
+          "textSha256": "bb8dc9d7663f8b23cee5f03bdee2ef7ed4315c68ea74c0774366c52e441fcf44"
+        },
+        {
+          "id": "AI-P2-06",
+          "pillar": 2,
+          "page": 2,
+          "section": "A. Chunking — แตกโจทย์ก่อนให้ AI ทำงาน (Breaking Down the Task before Working with AI)",
+          "kind": "reflection",
+          "textSha256": "d3c01a5f6d2f4856f25d25d5ff55e331fa15963c44eb82ec726bf9c06d8c9251"
+        },
+        {
+          "id": "AI-P2-07",
+          "pillar": 2,
+          "page": 2,
+          "section": "A. Chunking — แตกโจทย์ก่อนให้ AI ทำงาน (Breaking Down the Task before Working with AI)",
+          "kind": "reflection",
+          "textSha256": "f6195e1871d93ef4029490f546c656393e526d2b9c95282be7b72b90e1f1304b"
+        },
+        {
+          "id": "AI-P2-08",
+          "pillar": 2,
+          "page": 2,
+          "section": "A. Chunking — แตกโจทย์ก่อนให้ AI ทำงาน (Breaking Down the Task before Working with AI)",
+          "kind": "reflection",
+          "textSha256": "a58dbb5995526535aebff2dc5d57297e21ca14e807db0887a99ce583f12f77a0"
+        },
+        {
+          "id": "AI-P2-09",
+          "pillar": 2,
+          "page": 2,
+          "section": "B. Recall — เชื่อมและดึงของเดิมกลับมาใช้ (Retrieving Prior Knowledge, Templates, and Patterns)",
+          "kind": "reflection",
+          "textSha256": "d7eb0a11d170dedab017933c078500b2dd656dd6f451393427cdb1098410bb64"
+        },
+        {
+          "id": "AI-P2-10",
+          "pillar": 2,
+          "page": 2,
+          "section": "B. Recall — เชื่อมและดึงของเดิมกลับมาใช้ (Retrieving Prior Knowledge, Templates, and Patterns)",
+          "kind": "reflection",
+          "textSha256": "5e55cfbddda2ba822295166ebb502fb70cc0ae6e37600cd54b4efb14f9fe26ef"
+        },
+        {
+          "id": "AI-P2-11",
+          "pillar": 2,
+          "page": 2,
+          "section": "B. Recall — เชื่อมและดึงของเดิมกลับมาใช้ (Retrieving Prior Knowledge, Templates, and Patterns)",
+          "kind": "reflection",
+          "textSha256": "213b19b3e437b8b8d7c0e2a4e518b00bde390a0fe49963f4609dcab5aedb2a53"
+        },
+        {
+          "id": "AI-P2-12",
+          "pillar": 2,
+          "page": 3,
+          "section": "B. Recall — เชื่อมและดึงของเดิมกลับมาใช้ (Retrieving Prior Knowledge, Templates, and Patterns)",
+          "kind": "reflection",
+          "textSha256": "ef9d5be564af1b3db3794cda5b6604aa077a42cfd39290a9d7d493751c2faaa6"
+        },
+        {
+          "id": "AI-P2-13",
+          "pillar": 2,
+          "page": 3,
+          "section": "C. Reflect — สะท้อนกระบวนการและผลลัพธ์ (Reflecting on the Process and Outcomes)",
+          "kind": "reflection",
+          "textSha256": "01dd3565211006309732338bc0847e687a8bc0f80f75c6198483ecdd896ab636"
+        },
+        {
+          "id": "AI-P2-14",
+          "pillar": 2,
+          "page": 3,
+          "section": "C. Reflect — สะท้อนกระบวนการและผลลัพธ์ (Reflecting on the Process and Outcomes)",
+          "kind": "reflection",
+          "textSha256": "60a2c205d96c36e085e7f4aee86aa64f4e6d7ec142fe14d95fbe20d6b2259545"
+        },
+        {
+          "id": "AI-P2-15",
+          "pillar": 2,
+          "page": 3,
+          "section": "C. Reflect — สะท้อนกระบวนการและผลลัพธ์ (Reflecting on the Process and Outcomes)",
+          "kind": "reflection",
+          "textSha256": "82f29b82a2b3f0aa70edd656155f5dcea4d62401bafe58d9e762c1587a375be3"
+        },
+        {
+          "id": "AI-P2-16",
+          "pillar": 2,
+          "page": 3,
+          "section": "C. Reflect — สะท้อนกระบวนการและผลลัพธ์ (Reflecting on the Process and Outcomes)",
+          "kind": "reflection",
+          "textSha256": "eabe681ca7397fa4281879f12c6dc55e365b0f2b7e037848e1c2b3ede591af47"
+        },
+        {
+          "id": "AI-P2-17",
+          "pillar": 2,
+          "page": 3,
+          "section": "D. Feedback — ส่งกลับเป็นระบบที่ใช้ต่อได้ (Turning Feedback into a Reusable System)",
+          "kind": "reflection",
+          "textSha256": "b96b487c0f15005c0ee944896f4b6ee5c6e25d2e3695fda4f09fd054146959e3"
+        },
+        {
+          "id": "AI-P2-18",
+          "pillar": 2,
+          "page": 3,
+          "section": "D. Feedback — ส่งกลับเป็นระบบที่ใช้ต่อได้ (Turning Feedback into a Reusable System)",
+          "kind": "reflection",
+          "textSha256": "92dfee16e1d5f3b19440bad7551b9a088ed4bc4d611146c2aed7e680bfdf05ea"
+        },
+        {
+          "id": "AI-P2-19",
+          "pillar": 2,
+          "page": 3,
+          "section": "D. Feedback — ส่งกลับเป็นระบบที่ใช้ต่อได้ (Turning Feedback into a Reusable System)",
+          "kind": "reflection",
+          "textSha256": "c97b34689f47ed5237463456875c74e8ffd2bbb3c849848fa986cac53782b1d9"
+        },
+        {
+          "id": "AI-P2-20",
+          "pillar": 2,
+          "page": 3,
+          "section": "D. Feedback — ส่งกลับเป็นระบบที่ใช้ต่อได้ (Turning Feedback into a Reusable System)",
+          "kind": "reflection",
+          "textSha256": "dc9294992ea45d4d040b585e5099bf8b3752679bace3f21abcb90428fa003702"
+        },
+        {
+          "id": "AI-P3-01",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Awareness, Motivation & Entry Point)",
+          "kind": "reflection",
+          "textSha256": "f030c19b6d2bcb641d2777ae9883d3cf694d9cb9e4d1573856fdd6595debfb67"
+        },
+        {
+          "id": "AI-P3-02",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Awareness, Motivation & Entry Point)",
+          "kind": "reflection",
+          "textSha256": "9e85bbbd867294c7d20da401820b405db0f18d30ed68cdb699b92aeba30afc65"
+        },
+        {
+          "id": "AI-P3-03",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Awareness, Motivation & Entry Point)",
+          "kind": "reflection",
+          "textSha256": "e794731a092479db1752b213c23be95a9e4fb8885b9a5956d96099e7a9bada34"
+        },
+        {
+          "id": "AI-P3-04",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Awareness, Motivation & Entry Point)",
+          "kind": "reflection",
+          "textSha256": "b1195d5ae0a1a15290de77f2a3e63dfa355cafc61eff027442aebf59695135ca"
+        },
+        {
+          "id": "AI-P3-05",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Awareness, Motivation & Entry Point)",
+          "kind": "reflection",
+          "textSha256": "4f0bc355094c3571cdb8a68bf16c36bb427c39320611c753519aa27b9bb7325a"
+        },
+        {
+          "id": "AI-P3-06",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Meta-Skills, Reflection & Feedback Support)",
+          "kind": "reflection",
+          "textSha256": "4dd0e6e4cef4b83c3d404d8dec973f72f90426687581c053f059ac3e60c0be1c"
+        },
+        {
+          "id": "AI-P3-07",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Meta-Skills, Reflection & Feedback Support)",
+          "kind": "reflection",
+          "textSha256": "88bdf76a4548236b2ec4aee9b7eef4105f4f28c5b2624455272c347eba230401"
+        },
+        {
+          "id": "AI-P3-08",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Meta-Skills, Reflection & Feedback Support)",
+          "kind": "reflection",
+          "textSha256": "009dfa71ad85baa97a99b0d7dfe96d355b6a9cc6c1eba07e3602691db3eabe9b"
+        },
+        {
+          "id": "AI-P3-09",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Meta-Skills, Reflection & Feedback Support)",
+          "kind": "reflection",
+          "textSha256": "83f1552818b64753fdcf9a266339fae0fd73329694e2ae328d176c92ee5b2792"
+        },
+        {
+          "id": "AI-P3-10",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Application, Transfer & Evidence)",
+          "kind": "reflection",
+          "textSha256": "db4b65c614bbd7308f38f4e8b530402a79cb239c7728db123bf501145dea2c48"
+        },
+        {
+          "id": "AI-P3-11",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Application, Transfer & Evidence)",
+          "kind": "reflection",
+          "textSha256": "913afe7d482c3deea512d792d1c40a563d89b208d7f015b44a9a9e6f86f03e1c"
+        },
+        {
+          "id": "AI-P3-12",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Application, Transfer & Evidence)",
+          "kind": "reflection",
+          "textSha256": "cc2019579818b177d9c49788a00971ff05f6b3618f73f5b7c4796c9e0d34fa1b"
+        },
+        {
+          "id": "AI-P3-13",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Application, Transfer & Evidence)",
+          "kind": "reflection",
+          "textSha256": "7a829b448679a6ab41b464f7a709e06067c29c467a05d2a9e8588a1f699d7b3b"
+        },
+        {
+          "id": "AI-P3-14",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Resilience & Re-entry Support)",
+          "kind": "reflection",
+          "textSha256": "fa64761329f74f055aa5acc281165f605d7426952c353e3db529f7fb5dc44c16"
+        },
+        {
+          "id": "AI-P3-15",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Resilience & Re-entry Support)",
+          "kind": "reflection",
+          "textSha256": "7967432852b2c96782a04b7e833c36be5af526c65b726a74425e8f0d7b27202d"
+        },
+        {
+          "id": "AI-P3-16",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Resilience & Re-entry Support)",
+          "kind": "reflection",
+          "textSha256": "27cfaf95b31205699ca5846ccfea670ff220a4dc9ca16e770e74886f3cee712b"
+        },
+        {
+          "id": "AI-P3-17",
+          "pillar": 3,
+          "page": 4,
+          "section": "(Resilience & Re-entry Support)",
+          "kind": "reflection",
+          "textSha256": "3e2c054d3d2885b99602d8fc98c399604eccb7be1451159eb8df53d177605916"
+        },
+        {
+          "id": "AI-P4-01",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.1 Community & Real-Life Relevance: เชื่อมโยงการเรียนรู้กับชีวิตจริง ชุมชน และบริบทพื้นที่",
+          "kind": "reflection",
+          "textSha256": "01f2c27d27272d114f1cd6826e1e9487ccdf3d2c83e1929d7e6463456edbbad2"
+        },
+        {
+          "id": "AI-P4-02",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.1 Community & Real-Life Relevance: เชื่อมโยงการเรียนรู้กับชีวิตจริง ชุมชน และบริบทพื้นที่",
+          "kind": "reflection",
+          "textSha256": "ebf9a8757d41bab1177a43e192e86d097310f0d0f3089ceaa39f1541ed0b6da3"
+        },
+        {
+          "id": "AI-P4-03",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.1 Community & Real-Life Relevance: เชื่อมโยงการเรียนรู้กับชีวิตจริง ชุมชน และบริบทพื้นที่",
+          "kind": "reflection",
+          "textSha256": "d72ca3663081baef3bc326244ad759230545845b626a57f4f0903b991a8ae73d"
+        },
+        {
+          "id": "AI-P4-04",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.1 Community & Real-Life Relevance: เชื่อมโยงการเรียนรู้กับชีวิตจริง ชุมชน และบริบทพื้นที่",
+          "kind": "reflection",
+          "textSha256": "b62deb4058f8f52cf34b7f682f62aef236628a87c7c341d729a1341be6f1ff8d"
+        },
+        {
+          "id": "AI-P4-05",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.1 Community & Real-Life Relevance: เชื่อมโยงการเรียนรู้กับชีวิตจริง ชุมชน และบริบทพื้นที่",
+          "kind": "reflection",
+          "textSha256": "a42bdef7bc8f57c247e63dd80d4bf144a44e61f8f1f9789f995f1c169415ab58"
+        },
+        {
+          "id": "AI-P4-06",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "5ed047580ebdd8dc8ed92eb97f6e56ce357a9a6516bfb44b8b37420b7e2c9c47"
+        },
+        {
+          "id": "AI-P4-07",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "10fc2538c39af8a71bd393de1c8ec338d0a8e2ba79f43d045557f585b3da385f"
+        },
+        {
+          "id": "AI-P4-08",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "6332b358195110daa21cd493b3cc16f1a2581319986b1c7a896daec0bc13c7fa"
+        },
+        {
+          "id": "AI-P4-09",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "7a2532188d78490238de2a03c80e82af7122478f5ca489752f58e73d853eb401"
+        },
+        {
+          "id": "AI-P4-10",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "af56b56ed89e05cb1dbec7fa8e58c4781be9ee6fd18e4175a4a6723ae1f46164"
+        },
+        {
+          "id": "AI-P4-11",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.2 Industry, Future Skills & Work Readiness: เชื่อมโยงการเรียนรู้กับโลกงาน ทักษะอนาคต และความพร้อมในการ",
+          "kind": "reflection",
+          "textSha256": "63182555db7dd60bb0b8a95959fc1e11228e67781a2af3b83f8d6fed2f5e6444"
+        },
+        {
+          "id": "AI-P4-12",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "6c60056c034d12c37129a3f520abb41107a6793dea3b1da2dc84ce4502953fd8"
+        },
+        {
+          "id": "AI-P4-13",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "2dafc7a097127cb563246d2b177dd76d45b7e87d4103bd11c8b470ed94fcb026"
+        },
+        {
+          "id": "AI-P4-14",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "08a2a068a0cab6fd03e120afee368e95dd2058b9e711c884c037ef9416b21a5c"
+        },
+        {
+          "id": "AI-P4-15",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "6f486ba6087a5c086c0238d8f514e9661df4125f622189df761b01891d417103"
+        },
+        {
+          "id": "AI-P4-16",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "9486560a1b161fae368984ceb180584e304d1e7722cdc4e35c00bc0a990524ea"
+        },
+        {
+          "id": "AI-P4-17",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "5a37ebc6ca62f1aac4e23527d5bd4fcb4ff6e643fd3897b13d8281389529f97f"
+        },
+        {
+          "id": "AI-P4-18",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "b6e120ecd3677dac9cc159a7adbb94958ef79fe313febf54e0d849330dafe43c"
+        },
+        {
+          "id": "AI-P4-19",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "c93dfebd8b2b5cf7fb7471fcc9c4e2743a23a41891de3bfca3813c497ee0d95f"
+        },
+        {
+          "id": "AI-P4-20",
+          "pillar": 4,
+          "page": 5,
+          "section": "4.3 Future Pathway, Portfolio & Next Step: ช่วยให้ผู้เรียนเห็นก้าวต่อไปและสะสมหลักฐานการเตรียมความพร้อม",
+          "kind": "reflection",
+          "textSha256": "ee140140fc3e4eca120620ac5474d6bbc950c06c49aa432ec1e41479f430fedc"
+        },
+        {
+          "id": "AI-P4-21",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "05c30fe0c208b05d8042aed44711bd0362087dcf55da7df3ec040c2455621d42"
+        },
+        {
+          "id": "AI-P4-22",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "6035c81c654d2fd40a92db05a7eb8621ffb0ff6e9f1a835b3064c0c7fc7f3016"
+        },
+        {
+          "id": "AI-P4-23",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "f4fce1fe13ab1a2cfbf5229f6415919788f67668b02b3d3bfbd35b8f29d75713"
+        },
+        {
+          "id": "AI-P4-24",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "d96e5093ba69fd9b5b1e28e2cd7b69bbb1952b69c6e0b439f101656f91067d3a"
+        },
+        {
+          "id": "AI-P4-25",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "b7c49eb04d47fb26eff5edc3831f05f4b28d215e68d2256f410776e91331339f"
+        },
+        {
+          "id": "AI-P4-26",
+          "pillar": 4,
+          "page": 6,
+          "section": "หลักฐานที่ควรเก็บใน Pillar 4",
+          "kind": "evidence",
+          "textSha256": "657ee0c4aad24bc93d6e001990b5e58c477ec5986c2f726e70d9ee3da9020dd4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "teacher-growth-partner",
+  "version": "1.2.0",
+  "description": "Teacher Growth Partner from Teacher Co-Growth Agent Academy. Thai-first skills for teacher reflection, lesson design review, reusable teacher skill drafting, and evidence-based growth planning.",
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/setup/SKILL.md",
+      "interface": {
+        "displayName": "Teacher Growth Partner",
+        "shortDescription": "Plan, reflect, improve lessons",
+        "longDescription": "Teacher Growth Partner helps teachers improve an existing lesson, reflect on classroom evidence, and draft reusable teaching workflows. It supports Thai-language requests and uses project-supplied Classroom Practical Checklist V8 and AI Teacher Practice Checklist references, packaged as dated Markdown snapshots with source-page links. It selects relevant criteria, connects them to the teacher’s evidence, and checks requested constraints before delivering a draft.\n\nPart of Teacher Co-Growth Agent Academy. Teachers choose the changes and review drafts before classroom use. The skills work with information supplied in the current conversation; they do not provide cross-chat memory, automatic monitoring, formal teacher ratings, or verified learner outcomes. This skills-only package does not connect to Google Drive, GitHub or databases. Source links may require the document owner’s permission; packaged reference text does not require a Drive connection.",
+        "developerName": "Teacher Co-Growth Agent Academy",
+        "category": "Productivity",
+        "capabilities": [
+          "Improve an existing lesson",
+          "Review teaching designs",
+          "Reflect on classroom evidence",
+          "Draft reusable teacher workflows"
+        ],
+        "defaultPrompt": [
+          "ช่วยปรับแผนที่มีให้พร้อมลองสอน โดยคงเวลาและวัสดุเดิม",
+          "ช่วยดูงานที่สอนแล้วและเลือกสิ่งที่จะปรับหนึ่งข้อ",
+          "ช่วยทำเครื่องมือใช้ซ้ำสำหรับงานที่ฉันทำบ่อย"
+        ],
+        "brandColor": "#076C60",
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png"
+      },
+      "publication": {
+        "release_notes": "Source-backed Classroom V8 and AI Practice checklists with item IDs, page citations, selective reference loading and evidence-aware review."
+      }
+    }
+  }
+}

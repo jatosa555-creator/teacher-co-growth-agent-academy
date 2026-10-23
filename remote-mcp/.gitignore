@@ -1,0 +1,7 @@
+node_modules/
+.netlify/
+.npm-cache/
+dist/
+artifacts/
+.env
+.env.*
